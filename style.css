@@ -46,6 +46,7 @@ a:hover {
 }
 
 .bloc-lg {
+    
     padding: 100px 50px;
     display: flex;
     align-items: center;
@@ -85,8 +86,7 @@ a:hover {
 }
 
 .bloc-bg-texture::before {
-    
-    
+
     content: "";
     background-size: 2px 2px;
     position: absolute;
@@ -1078,4 +1078,7 @@ h4 {
         background-image: none;
     }
 }
+.texture-paper::before {
+    background: url(img/texture-paper.png);
+    background-size: 280px 280px;
 

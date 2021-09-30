@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(87, 87, 87, 1);
+    color: #1D1D1D;
 }
 
 .d-bloc .a-btn:hover,
@@ -151,7 +151,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(87, 87, 87, 0.7);
+    color: #1D1D1D;
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -165,7 +165,7 @@ a:hover {
 }
 
 .d-bloc .panel {
-    color: rgba(0, 0, 0, .5);
+    color: #1D1D1D;
 }
 
 .d-bloc .panel button:hover {
@@ -181,7 +181,7 @@ a:hover {
 }
 
 .d-bloc .panel .a-btn {
-    color: rgba(0, 0, 0, .6);
+    color: #1D1D1D;
 }
 
 .d-bloc .panel .a-btn:hover {
@@ -196,7 +196,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color:#1D1D1D;
 }
 
 .d-bloc .panel button:hover,
@@ -232,7 +232,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: #1D1D1D;
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -254,7 +254,7 @@ a:hover {
 }
 
 .l-bloc .navbar-toggle .icon-bar {
-    color: rgba(0, 0, 0, .6);
+    color: #1D1D1D;
 }
 
 .d-bloc .panel .btn-wire,
@@ -348,7 +348,7 @@ a:hover {
 }
 
 .navbar-toggle .icon-bar {
-    background-color: rgba(0, 0, 0, .5);
+    background-color: #1D1D1D;
     width: 26px;
 }
 
@@ -545,7 +545,7 @@ a[data-lightbox]:hover::before {
     height: 50px;
     margin-left: -25px;
     border-radius: 50%;
-    background: rgba(0, 0, 0, .6);
+    background: #1D1D1D;
     color: #FFF;
     font-weight: 100;
     z-index: 1;
@@ -580,7 +580,7 @@ a[data-lightbox]:hover img {
 .lightbox-caption {
     padding: 20px;
     color: #FFF;
-    background: rgba(0, 0, 0, .5);
+    background: #1D1D1D;
     position: absolute;
     left: 15px;
     right: 15px;
@@ -594,7 +594,7 @@ a[data-lightbox]:hover img {
     top: 20px;
     right: 20px;
     z-index: 20;
-    background: rgba(0, 0, 0, .5);
+    background: #1D1D1D;
     border: none;
     line-height: 30px;
     padding: 0 9px 5px;
@@ -612,7 +612,7 @@ a[data-lightbox]:hover img {
 .prev-lightbox {
     font-size: 20px;
     color: rgba(255, 255, 255, .9);
-    background: rgba(0, 0, 0, .5);
+    background: #1D1D1D;
     transition: all .2s ease-in-out;
     position: absolute;
     top: 45%;
@@ -636,7 +636,7 @@ a[data-lightbox]:hover img {
 
 .snapshot-lb .lightbox-caption {
     padding: 0;
-    color: rgba(0, 0, 0, .5);
+    color: #1D1D1D;
     background: none;
 }
 
@@ -655,7 +655,7 @@ a {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 100%;
    
 }
 
@@ -741,7 +741,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: #1D1D1D!important;
 }
 
 .med-width-whitespace {
@@ -755,7 +755,7 @@ h1 {
 }
 
 h4 {
-    color: #333333!important;
+    color: #1D1D1D!important;
 }
 
 .icons {
@@ -764,7 +764,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #1D1D1D!important;
 }
 
 .portfolio-thumb {
@@ -814,18 +814,18 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #333!important;
+    color: #1D1D1D!important;
 }
 
 .btn-tangerine
 {
-    background: #333!important;
+    background:#1D1D1D!important;
     color: #F3976C!important;
 }
 
 .contrast
 {
-    color: #333!important;
+    color:#1D1D1D!important;
 }
 
 .btn-tangerine:hover {
@@ -1080,5 +1080,5 @@ h4 {
 }
 .texture-paper::before {
     background: url(img/texture-paper.png);
-    background-size: 280px 280px;
+    background-size: 280px 280px;}
 

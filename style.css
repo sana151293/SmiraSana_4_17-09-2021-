@@ -43,6 +43,9 @@ a:hover {
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
+    WIDTH: 40%;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .bloc-lg {
@@ -730,6 +733,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+
 }
 
 h2 {
@@ -1067,6 +1071,13 @@ h4 {
     .bg-presentation {
         background-image: none;
     }
+    .container{
+        display: flex;
+        flex-wrap: nowrap;
+    }
+    .form-control{
+        width: 20em;
+    }
 }
 
 @media (max-width: 767px) {
@@ -1077,8 +1088,11 @@ h4 {
     .bg-presentation {
         background-image: none;
     }
+    .social{
+        display: flex;
+    justify-content: space-around;
+    }
 }
 .texture-paper::before {
     background: url(img/texture-paper.png);
     background-size: 280px 280px;}
-

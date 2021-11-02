@@ -26,6 +26,7 @@ Beaucoup de liens inutile étaient présent, ce qui ralentissait le chargement d
 
 Source :
 https://smartkeyword.io/seo-netlinking-ancre-de-lien/
+
 2.	Structurer et optimiser le code HTML
 
 •	Les balises du code ne sont pas optimisées, seul des div ont été utilisé. Afin d’améliorer cela il faut structurer le code en ajoutant des balises tels que header, section, article, div, footer. 

@@ -56,11 +56,13 @@ https://smartkeyword.io/seo-on-page-images-attribut-alt/
 https://compresspng.com/fr/
 
 5.	Améliorer le responsive
+
 Plusieurs modifications ont été apporté afin d’améliorer le responsive :
 •	Modification de la taille de containers 
 •	Modification du format des images
 
 6.	Réduire le temps de lecture des fichiers css et js 
+
 Le temps de lecture a été réduis en minifiant les fichiers css et javascript afin qu’ils prennent moins de place car enlever les espaces entre les lignes de code et renommer des fonctions permet de gagner du temps de téléchargement. (Espaces, saut de lignes, tabulations …)
 
 Source : 

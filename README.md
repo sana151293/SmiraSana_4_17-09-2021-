@@ -1,4 +1,5 @@
-# SmiraSana_4_17-09-2021-
+# Analyse du site La chouette agence 
+
 Analyse du site : 
 L’analyse de l’état actuel du SEO à mis en lumière que certaines parties n’était pas optimisées, à travers ce rapport nous allons donc vous exposer les problèmes rencontrés lors de l’analyse ainsi que les solutions que nous avons apportées afin que les problèmes soient réglés. 
 
